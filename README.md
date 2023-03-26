@@ -1,0 +1,2 @@
+Bienvenidos a mi proyecto  final para el curso de desarrollo web en coder house! en este caso realice una pagina para mi emprendimiento de Desarrollo web y diseño multimedia.
+doy las gracias a mi profesor por haberme enseñado las herramientas necesarias para poder crear este sitio. ademas de los tutores de coder que me guiaron y aconsejaron siempre, excelente grupo y un gran ambiente en todas las clases!
